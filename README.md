@@ -1,7 +1,7 @@
 # Sinem Naz İnan
 
 **Computer Engineer · Backend & Data/AI**  
-İstanbul, TR · sineminan9@gmail.com · +90 505 438 86 28  
+İstanbul, TR · sineminan9@gmail.com 
 
 [GitHub](https://github.com/sinemnazinan) · [LinkedIn](https://linkedin.com/in/sinemnazinan)  
 
